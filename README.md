@@ -19,7 +19,9 @@ Um  resumo para me orientar nas criações de documentação em arquivos.md
 :pushpin: Ser usado como lembrete todo vez que eu esquecer
 
 ##Pré-requisitos
+(O que é necessário ter instalado antes de iniciar o projeto)
 
+- [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
 
 ## :hammer: Como fazer:
 
