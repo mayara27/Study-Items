@@ -55,11 +55,10 @@ rspec
 
 ## Database
 
-|nome |   |   |   |   |
-|-----|---|---|---|---|
-|     |   |   |   |   |
-|     |   |   |   |   |
-|     |   |   |   |   |
+|  nome  | email           |senha    | tocken | avatar   |
+|--------|-----------------|---------|--------|----------|
+|mayara  |mayara.fernandes |123456   |  true  |  imagem  |
+
 
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
 
