@@ -27,12 +27,37 @@ Um  resumo para me orientar nas criações de documentação em arquivos.md
 No terminal clone o projeto:
 
 ```
-git clone 
+git clone https://github.com/mayara27/Study-Items
+```
+Entre na pasta
+
+```
+cd pasta
+```
+Instale as dependencias
+
+```
+yarn install
 ```
 
 ## Como rodar a aplicação
+(como iniciar o projeto)
 
-## Como rodar 
+```
+rails s
+```
+
+## Como rodar os testes
+
+```
+rspec
+```
+
+## Database
+
+|nome|email|senha|tocken|avatar|
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| Mayara | mayara.fernandes | 123456 | true | imagem |
 
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
 
