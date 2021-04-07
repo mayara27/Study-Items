@@ -28,3 +28,12 @@ Um  resumo para me orientar nas criações de documentação em arquivos.md
 - Titulo: Utilizar '#' no inicio da frase
 
 - Subtitulo: Utilizar '##' antes da frase
+
+## :heavy_check_mark: O que foi aprendido
+
+- [x] Titulos
+- [x] Subtitulos
+- [x] CheckList
+- [x] Emojis 
+- [ ] Imagem
+
