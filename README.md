@@ -21,6 +21,19 @@ Um  resumo para me orientar nas criações de documentação em arquivos.md
 ## Pré-requisitos
 (O que é necessário ter instalado antes de iniciar o projeto)
 
+## Configuração
+(Configuração necessária para rodar o projeto)
+
+No terminal clone o projeto:
+
+...
+git clone
+...
+
+## Como rodar a aplicação
+
+## Como rodar 
+
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
 
 ## :hammer: Como fazer:
@@ -38,4 +51,3 @@ Um  resumo para me orientar nas criações de documentação em arquivos.md
 - [x] CheckList
 - [x] Emojis 
 - [ ] Imagem
-
