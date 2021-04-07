@@ -1,6 +1,6 @@
 # Documentação da Documentação :blush:
 
-<p align="center"> <img src=https://github.com/mayara27/Study-Items/edit/main/doc.jpg> </p>
+<p align="center"> <img src=https://github.com/mayara27/Study-Items/edit/main/doc> </p>
   
 >Status: em andamento
 
