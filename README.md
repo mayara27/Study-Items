@@ -55,9 +55,11 @@ rspec
 
 ## Database
 
-|nome|email|senha|tocken|avatar|
-| ------ | ------- | ------- | ------- | ------- | ------- |
-| Mayara | mayara.fernandes | 123456 | true | imagem |
+|nome |   |   |   |   |
+|-----|---|---|---|---|
+|     |   |   |   |   |
+|     |   |   |   |   |
+|     |   |   |   |   |
 
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
 
