@@ -6,9 +6,14 @@
 
 ## Descrição
 
-Uma resumo para me orientar nas criações de documentação em arquivos.md
+Um  resumo para me orientar nas criações de documentação em arquivos.md
 
 ## Funcionalidades
 
 :pushpin: Me orientar na criação de documentações
 
+:pushpin: Ser usado como lembrete todo vez que eu esquecer
+
+- Listas:
+
+Utilizar o '-' antes no inicio da frase
