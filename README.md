@@ -26,7 +26,7 @@ Um  resumo para me orientar nas criações de documentação em arquivos.md
 
 No terminal clone o projeto:
 
-...
+..
 
 git clone
 ...
