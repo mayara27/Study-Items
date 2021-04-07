@@ -21,6 +21,8 @@ Um  resumo para me orientar nas criações de documentação em arquivos.md
 ## Pré-requisitos
 (O que é necessário ter instalado antes de iniciar o projeto)
 
+- [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
+
 ## Configuração
 (Configuração necessária para rodar o projeto)
 
@@ -59,8 +61,6 @@ rspec
 |--------|-----------------|---------|--------|----------|
 |mayara  |mayara.fernandes |123456   |  true  |  imagem  |
 
-
-- [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
 
 ## :hammer: Como fazer:
 
