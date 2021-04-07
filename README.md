@@ -6,7 +6,7 @@
 >Status: em andamento
 (Status: Indica se seu projeto ainda está em desenvolvimento ou concluído)
 
-## Descrição
+## :clipboard: Descrição
 (uma descrição breve sobre o projeto)
 
 Um  resumo para me orientar nas criações de documentação em arquivos.md
@@ -21,7 +21,7 @@ Um  resumo para me orientar nas criações de documentação em arquivos.md
 ##Pré-requisitos
 
 
-##Como fazer:
+## :hammer: Como fazer:
 
 - Listas: Utilizar o '-' antes no inicio da frase.
 
