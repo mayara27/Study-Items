@@ -11,17 +11,20 @@
 
 Um  resumo para me orientar nas criações de documentação em arquivos.md
 
-## Funcionalidades
-(O que a tarefa faz)
+## :sparkles: Funcionalidades
+(O que o projeto faz)
 
 :pushpin: Me orientar na criação de documentações
 
 :pushpin: Ser usado como lembrete todo vez que eu esquecer
+
+##Pré-requisitos
+
+
+##Como fazer:
 
 - Listas: Utilizar o '-' antes no inicio da frase.
 
 - Titulo: Utilizar '#' no inicio da frase
 
 - Subtitulo: Utilizar '##' antes da frase
-
-##Pré-requisitos
