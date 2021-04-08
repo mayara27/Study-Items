@@ -1,7 +1,7 @@
 # Documentação da Documentação :blush:
 (Titulo: o nome do seu projeto)
 
-<p align="center"> <img src=https://octodex.github.com/images/yaktocat.png> </p>
+<p align="center"> <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fportswigger.net%2Fdaily-swig%2Fpopular-ruby-gem-strong-password-backdoored&psig=AOvVaw1fwqLt_cOhI-mbJR43QJW-&ust=1617999455221000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiTzem77-8CFQAAAAAdAAAAABAD> </p>
   
 >Status: em andamento
 (Status: Indica se seu projeto ainda está em desenvolvimento ou concluído)
