@@ -14,9 +14,9 @@ Um  resumo para me orientar nas criações de documentação em arquivos.md
 ## :sparkles: Funcionalidades
 (O que o projeto faz)
 
-:pushpin: Me orientar na criação de documentações
+1. Me orientar na criação de documentações
 
-:pushpin: Ser usado como lembrete todo vez que eu esquecer
+2. Ser usado como lembrete todo vez que eu esquecer
 
 ## :arrow_left: Pré-requisitos
 (O que é necessário ter instalado antes de iniciar o projeto)
