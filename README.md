@@ -71,6 +71,20 @@ rspec
 
 - Subtitulo: Utilizar '##' antes da frase
 
+## Exemplo de coisas que achei legal
+
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
+
 ## :heavy_check_mark: O que foi aprendido
 
 - [x] Titulos
