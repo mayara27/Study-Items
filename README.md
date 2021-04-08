@@ -18,13 +18,13 @@ Um  resumo para me orientar nas criações de documentação em arquivos.md
 
 :pushpin: Ser usado como lembrete todo vez que eu esquecer
 
-## Pré-requisitos
+## :arrow_left: Pré-requisitos
 (O que é necessário ter instalado antes de iniciar o projeto)
 
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
 - [Emoji](https://gist.github.com/rxaviers/7360908)
 
-## Configuração
+## :wrench: Configuração
 (Configuração necessária para rodar o projeto)
 
 No terminal clone o projeto:
@@ -43,7 +43,7 @@ Instale as dependencias
 yarn install
 ```
 
-## Como rodar a aplicação
+## :eyes: Como rodar a aplicação
 (como iniciar o projeto)
 
 ```
