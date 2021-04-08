@@ -1,7 +1,7 @@
 # Documentação da Documentação :blush:
 (Titulo: o nome do seu projeto)
 
-<p align="center"> <img src=https://github.com/mayara27/Study-Items/main/doc.jpg> </p>
+<p align="center"> <img src=https://octodex.github.com/images/yaktocat.png> </p>
   
 >Status: em andamento
 (Status: Indica se seu projeto ainda está em desenvolvimento ou concluído)
@@ -71,19 +71,6 @@ rspec
 
 - Subtitulo: Utilizar '##' antes da frase
 
-## Exemplo de coisas que achei legal
-
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
-~~~
 
 ## :heavy_check_mark: O que foi aprendido
 
