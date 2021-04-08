@@ -57,7 +57,7 @@ rails s
 rspec
 ```
 
-## Database
+## :small_pink_diamond: Database
 
 |  nome  | email           |senha    | tocken | avatar   |
 |:--------:|:-----------------:|:---------:|:--------:|:----------:|
