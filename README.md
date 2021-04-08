@@ -22,7 +22,7 @@ Um  resumo para me orientar nas criações de documentação em arquivos.md
 (O que é necessário ter instalado antes de iniciar o projeto)
 
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
-- -[Emoji](https://gist.github.com/rxaviers/7360908)
+- [Emoji](https://gist.github.com/rxaviers/7360908)
 
 ## Configuração
 (Configuração necessária para rodar o projeto)
@@ -59,7 +59,7 @@ rspec
 ## Database
 
 |  nome  | email           |senha    | tocken | avatar   |
-|--------|-----------------|---------|--------|----------|
+|:--------:|:-----------------:|:---------:|:--------:|:----------:|
 |mayara  |mayara.fernandes |123456   |  true  |  imagem  |
 
 
