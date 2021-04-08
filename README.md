@@ -51,7 +51,7 @@ yarn install
 rails s
 ```
 
-## Como rodar os testes
+## :white_check_mark: Como rodar os testes
 
 ```
 rspec
