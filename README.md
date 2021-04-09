@@ -9,6 +9,8 @@
 ## :clipboard: Descrição
 (uma descrição breve sobre o projeto)
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 Um  resumo para me orientar nas criações de documentação em arquivos.md
 
 ## :sparkles: Funcionalidades
