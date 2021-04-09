@@ -9,8 +9,7 @@
 ## :clipboard: Descrição
 (uma descrição breve sobre o projeto)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
+![Gif Homer](https://media3.giphy.com/media/jUwpNzg9IcyrK/giphy.gif?cid=82a1493bpeaw6wgit9m7hbnm3t5ndccg7meimjyeqwz1w7t5&rid=giphy.gif)
 Um  resumo para me orientar nas criações de documentação em arquivos.md
 
 ## :sparkles: Funcionalidades
