@@ -30,6 +30,7 @@
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
 - [Emoji](https://gist.github.com/rxaviers/7360908)
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Gitflow](GitFlow.md)
 
 ## :wrench: Configuração
 (Configuração necessária para rodar o projeto)
