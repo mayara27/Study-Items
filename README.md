@@ -2,7 +2,7 @@
 # Documentação da Documentação :blush:
 (Titulo: o nome do seu projeto)
 
-<p align="center"> <img src="https://github.com/mayara27/Study-Items/blob/main/doc.jpg"> </p>
+<p align="center"> <img src="https://github.com/mayara27/Study-Items/blob/main/doc.jpg" width="500px;"> </p>
   
 >Status: em andamento
 (Status: Indica se seu projeto ainda está em desenvolvimento ou concluído)
@@ -10,7 +10,7 @@
 ## :clipboard: Descrição
 (uma descrição breve sobre o projeto)
 
-![Gif Homer](https://media3.giphy.com/media/jUwpNzg9IcyrK/giphy.gif?cid=82a1493bpeaw6wgit9m7hbnm3t5ndccg7meimjyeqwz1w7t5&rid=giphy.gif)
+<p align="center"> <img src="https://media3.giphy.com/media/jUwpNzg9IcyrK/giphy.gif?cid=82a1493bpeaw6wgit9m7hbnm3t5ndccg7meimjyeqwz1w7t5&rid=giphy.gif" width="500px;"> </p>
 
 
 
