@@ -10,7 +10,11 @@
 (uma descrição breve sobre o projeto)
 
 ![Gif Homer](https://media3.giphy.com/media/jUwpNzg9IcyrK/giphy.gif?cid=82a1493bpeaw6wgit9m7hbnm3t5ndccg7meimjyeqwz1w7t5&rid=giphy.gif)
-Um  resumo para me orientar nas criações de documentação em arquivos.md
+
+
+
+<br>
+<p> Um  resumo para me orientar nas criações de documentação em arquivos.md </p>
 
 ## :sparkles: Funcionalidades
 (O que o projeto faz)
