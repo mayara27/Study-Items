@@ -2,7 +2,7 @@
 # Documentação da Documentação :blush:
 (Titulo: o nome do seu projeto)
 
-<p align="center"> <img src="https://github.com/mayara27/Study-Items/blob/main/doc.jpg" width="500px;"> </p>
+<p align="center"> <img src="https://github.com/mayara27/Study-Items/blob/main/images/doc.jpg" width="500px;"> </p>
   
 >Status: em andamento
 (Status: Indica se seu projeto ainda está em desenvolvimento ou concluído)
