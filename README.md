@@ -1,7 +1,8 @@
+<a id=top></a>
 # Documentação da Documentação :blush:
 (Titulo: o nome do seu projeto)
 
-<p align="center"> <img src="https://github.com/mayara27/Study-Items/blob/main/doc.jpg"> </p>
+<p align="center"> <img src="https://github.com/mayara27/Study-Items/blob/main/doc.jpg" width="500px;"> </p>
   
 >Status: em andamento
 (Status: Indica se seu projeto ainda está em desenvolvimento ou concluído)
@@ -9,7 +10,7 @@
 ## :clipboard: Descrição
 (uma descrição breve sobre o projeto)
 
-![Gif Homer](https://media3.giphy.com/media/jUwpNzg9IcyrK/giphy.gif?cid=82a1493bpeaw6wgit9m7hbnm3t5ndccg7meimjyeqwz1w7t5&rid=giphy.gif)
+<p align="center"> <img src="https://media3.giphy.com/media/jUwpNzg9IcyrK/giphy.gif?cid=82a1493bpeaw6wgit9m7hbnm3t5ndccg7meimjyeqwz1w7t5&rid=giphy.gif" width="500px;"> </p>
 
 
 
@@ -29,6 +30,7 @@
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
 - [Emoji](https://gist.github.com/rxaviers/7360908)
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Gitflow](GitFlow.md)
 
 ## :wrench: Configuração
 (Configuração necessária para rodar o projeto)
@@ -86,3 +88,7 @@ rspec
 - [x] Emojis 
 - [x] Links
 - [ ] Imagem
+
+>Feito por: Mayara Fernandes
+
+[Topo](#top)
