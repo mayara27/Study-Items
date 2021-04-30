@@ -4,7 +4,7 @@
 
 Documentação com o proposito de armazenar comandos Linux mais utilizados no dia a dia.
 
-##Itens
+### Itens
 
 1. Linux Aleatório - Comandos mais simples usados no sistema como um topo. Exemplo: manual, ajuda, data e etc.
 2. Linux Arquivos - Comandos de manipulação de arquivos em geral. Exemplo: criar, editar, deletar e etc.
