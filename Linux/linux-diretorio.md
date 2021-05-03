@@ -1,10 +1,10 @@
 # Diretórios
 
-Mostra o diretório que estou:
+### :small_orange_diamond: Mostra o diretório que estou:
 ```
 pwd
 ```
-Lista os diretórios que tenho:
+### :small_orange_diamond: Lista os diretórios que tenho:
 
 ```
 ls
@@ -14,30 +14,30 @@ ls -l #mostra destalhes do dir
 ls -la #mostra até os dir invisiveis
 ```
 
-Mudar de diretório:
+### :small_orange_diamond: Mudar de diretório:
 
 ```
 cd diretorio
 ```
 
-Criar diretorio: 
+### :small_orange_diamond: Criar diretorio: 
 
 ```
 mkdir diretorio
 ```
 
-Copiar diretorio:
+### :small_orange_diamond: Copiar diretorio:
 
 ```
 cp -r diretorio
 ```
 
-Remover diretorio:
+### :small_orange_diamond: Remover diretorio:
 
 ```
 rmdir diretorio
 ```
-Remover diretorio com arquivos dentro:
+### :small_orange_diamond: Remover diretorio com arquivos dentro:
 
 ```
 rm -r diretorio
