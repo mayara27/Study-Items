@@ -1,17 +1,17 @@
 # Usuario
 
-Retorna o nome do usuario:
+### :small_orange_diamond: Retorna o nome do usuario:
 
 ```
 whoami
 ```
-Mudar senha do user atual: 
+### :small_orange_diamond: Mudar senha do user atual: 
 
 ```
-passwd 
+passwd
 ```
 
-Trocar user logado: 
+### :small_orange_diamond: Trocar user logado: 
 
 ```
 su user
