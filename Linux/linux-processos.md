@@ -1,6 +1,6 @@
 # Processos
 
-Mostrar processos que estão sendo executados 
+### :small_orange_diamond: Mostrar processos que estão sendo executados 
 
 ```
 ps -e
@@ -12,19 +12,20 @@ pstree
 
 > O `| grep ` filtra processos pelo nome
 
-Matar processos:
+### :small_orange_diamond: Matar processos:
 
 ```
 kill id_do_processo
 
 kill -9 id_do_processo #mata na hora
 ```
-Matar tudo com o mesmo nome: 
+### :small_orange_diamond: Matar tudo com o mesmo nome: 
 
 ```
 killall nome_do_processo_que_quero_matar
+
 ```
-Saber consumo de PCU de cada processo
+### :small_orange_diamond: Saber consumo de PCU de cada processo
 
 ```
 top
@@ -32,7 +33,7 @@ top
 top -u nome_do_usuario ## mostra processos de um usuario
 ```
 
-Ver processos parados:
+### :small_orange_diamond: Ver processos parados:
 
 Parar processo com  `Ctrl+Z`
 
@@ -40,7 +41,7 @@ Parar processo com  `Ctrl+Z`
 jobs
 ```
 
-Fazer processo rodar no background:
+### :small_orange_diamond: Fazer processo rodar no background:
 
 ```
 bg 1
@@ -51,7 +52,7 @@ nome_do_processo &
 ```
 > o numero 1 é o número que o processo se encontra na pilha 
 
-Fazer processo rodar no foreground:
+### :small_orange_diamond: Fazer processo rodar no foreground:
 
 ```
 fg 1
