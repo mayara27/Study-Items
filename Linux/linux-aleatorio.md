@@ -1,33 +1,36 @@
-Manual do comando:
+# Aleatórios
+
+
+### :small_orange_diamond: Manual do comando:
 
 ```
 man ls (qualquer comando)
 ```
-Ver a data do sistema:
+### :small_orange_diamond: Ver a data do sistema:
 
 ```
 date
 ```
 
-Ajuda:
+### :small_orange_diamond: Ajuda:
 
 ```
 comando --help
 ```
 
-Locatizar arquivo no sistema: 
+### :small_orange_diamond: Locatizar arquivo no sistema: 
 
 ```
 locate nome_do_arquivo
 ```
 
-Atuallizar bd:
+### :small_orange_diamond: Atuallizar bd:
 
 ```
 sudo updatedb
 ```
 
-Mostra o local do arquivo que vou executar se eu der o comando `code` por exemplo: 
+### :small_orange_diamond: Mostra o local do arquivo que vou executar se eu der o comando `code` por exemplo: 
 
 ```
 which code
