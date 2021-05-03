@@ -10,7 +10,7 @@ ps -ef | grep oq_quer_achar
 pstree
 ```
 
-> O `| grep ` filtra processos pelo nome
+> :heavy_exclamation_mark: O `| grep ` filtra processos pelo nome
 
 ### :small_orange_diamond: Matar processos:
 
