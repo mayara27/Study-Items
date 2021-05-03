@@ -1,18 +1,18 @@
 # ZIP 
 
-Compactar diretório: 
+### :small_orange_diamond: Compactar diretório: 
 
 ```
 zip -r nome_do_zip.zip diretorio
 ```
 
-Mostra o que tem dentro do zip:
+### :small_orange_diamond: Mostra o que tem dentro do zip:
 
 ```
 unzip -l nome_do_zip.zip
 ```
 
-Descompactar:
+### :small_orange_diamond: Descompactar:
 
 ```
 unzip nome_do_zip.zip
@@ -20,13 +20,13 @@ unzip nome_do_zip.zip
 
 # TAR
 
-Compactar e zipar:
+### :small_orange_diamond: Compactar e zipar:
 
 ```
 tar -czf nome_do_tar.tar.gz diretorio
 ```
 
-Descompactar:
+### :small_orange_diamond: Descompactar:
 
 ```
 tar -xzf nome_do_tar.tar.gz
