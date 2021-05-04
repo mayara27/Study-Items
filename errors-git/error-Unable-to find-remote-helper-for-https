@@ -1,0 +1,19 @@
+# Sobre
+
+É um erro de pacotes do Git. No Ubuntu a resolução foi:
+
+Primeiro: rodar o comando:
+
+```
+sudo apt-get install libcurl4-openssl-dev 
+```
+
+Segundo: achar o diretorio que o git está instalado
+
+Terceiro: rodar seguintes comandos:
+
+```
+./configure
+$ make
+$ make install
+```
