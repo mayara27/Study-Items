@@ -23,8 +23,28 @@ kill -9 id_do_processo #mata na hora
 
 ```
 killall nome_do_processo_que_quero_matar
+```
+> Os scripts dentro do diretório /etc/init.d serão executados quando nosso sistema inicia. `ls /etc/init.d/`
+
+### :small_orange_diamond: Parar processo sem matar: 
 
 ```
+sudo service processo stop
+```
+
+
+### :small_orange_diamond: Retomar processo: 
+
+```
+sudo service processo start
+```
+
+### :small_orange_diamond: Verificar se serviço está em execução:
+
+```
+sudo service vsftpd status
+```
+
 ### :small_orange_diamond: Saber consumo de PCU de cada processo
 
 ```

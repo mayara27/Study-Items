@@ -6,6 +6,22 @@ Ler script:
 sh nome_do_script
 ```
 
+#### Path
+
+### :small_orange_diamond: Adicionando path:
+
+```
+PATH=$PATH:caminho/do/que/voce/quiser
+```
+> esse comando torna o path só temporario 
+
+Para tornar o path permanente:
+
+```
+gedit bashrc &
+```
+ Adicionar o primeiro comando ao arquivo bashrc e salvar.
+
 # Permissões 
 
 #### As permissões se dividem em: 
@@ -28,3 +44,11 @@ sh nome_do_script
 chmod +x arquivo_ou_diretório
 ```
 > aqui estou adicionando o X para dar acesso a abrir e executar este arquivo
+
+Tirar permissões para outros usuarios e grupos que não sejam o dono: 
+
+```
+chmod o-rx nome_do_usuario_dono
+```
+
+> A letra 'o' tira permissões de outros, a 'u' tira do usuario dono e a 'g' do grupo dono.

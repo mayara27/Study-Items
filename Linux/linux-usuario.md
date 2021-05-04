@@ -16,3 +16,13 @@ passwd
 ```
 su user
 ```
+### :small_orange_diamond: Adicionar usuarios:
+
+```
+adduser nome_do_novo_usuario
+```
+Volta pro root:
+
+```
+exit
+```
