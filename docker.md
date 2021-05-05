@@ -40,3 +40,30 @@ docker start -a -i id_do_container  ## o '-i' abre o terminal de dentro do conta
 ```
 docker stop id_do_container
 ```
+
+### :small_orange_diamond: Remover container:
+
+```
+
+docker rm id_container
+
+docker container prune  ##remove todos os containers inativos 
+
+docker stop $(docker ps -a -q) ##remove todos os containers inativos 
+
+```
+
+### :small_orange_diamond: Mostrar imagens do docker disponiveis na minha máquina:
+
+```
+docker images
+```
+
+### :small_orange_diamond: Remover imagens:
+
+```
+docker rmi nome_da_imagem
+
+docker rmi -f $(docker images -q)  ##remove todas as imagens
+
+```
