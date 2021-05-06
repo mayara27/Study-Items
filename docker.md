@@ -76,7 +76,7 @@ docker run -d -P nome_do_container
 ```
 
 
-### :small_orange_diamond: Criando contaneir com a porta aleatória
+### :small_orange_diamond: Linkando pasta do container com pasta do pc 'volumes'
 
 ```
 docker run -v "Caminho/do/meu/pc:/var/www" nome_da_container
