@@ -4,7 +4,7 @@
 
 Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.
 
-Imagem: a receita para criar os containers
+Imagem: a receita para criar os containers.
 
 
 ### :small_orange_diamond: Executando container:
@@ -38,8 +38,9 @@ docker start -a -i id_do_container  ## o '-i' abre o terminal de dentro do conta
 ### :small_orange_diamond: Parar container:
 
 ```
-docker stop id_do_container
+docker stop -t 0 id_do_container
 ```
+> o `-t 0` faz com que os containers parem instantaneamente
 
 ### :small_orange_diamond: Remover container:
 
@@ -66,4 +67,34 @@ docker rmi nome_da_imagem
 
 docker rmi -f $(docker images -q)  ##remove todas as imagens
 
+```
+
+### :small_orange_diamond: Run contaneir com a porta aleatória
+
+```
+docker run -d -P nome_do_container
+```
+
+### :small_orange_diamond: Run contaneir escolhendo a porta
+
+```
+docker run -d -p porta_do_computador:porta_do_container nome_do_container
+```
+
+### :small_orange_diamond: Run contaneir com variavel de ambiente:
+
+```
+docker run -d -P -e NOME_DA_VARIVEL="Mayara" nome_da_imagem
+```
+
+### :small_orange_diamond: Verificar porta que o container está:
+
+```
+docker port id_do_container
+```
+
+### :small_orange_diamond: Nomeando container
+
+```
+docker run -d -P --name nome-container-que-eu-quiser nome_da_imagem
 ```
