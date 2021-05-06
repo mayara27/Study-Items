@@ -75,6 +75,18 @@ docker rmi -f $(docker images -q)  ##remove todas as imagens
 docker run -d -P nome_do_container
 ```
 
+
+### :small_orange_diamond: Criando contaneir com a porta aleatória
+
+```
+docker run -v "Caminho/do/meu/pc:/var/www" nome_da_container
+```
+
+### :small_orange_diamond: Inpecfionar container
+```
+docker inspect id_do_container
+```
+
 ### :small_orange_diamond: Run contaneir escolhendo a porta
 
 ```
@@ -85,6 +97,16 @@ docker run -d -p porta_do_computador:porta_do_container nome_do_container
 
 ```
 docker run -d -P -e NOME_DA_VARIVEL="Mayara" nome_da_imagem
+```
+### :small_orange_diamond: Run contaneir para executar arquivos em pastas especificas
+
+```
+docker run -v "[CAMINHO_VOLUME_LOCAL: CAMINHO_VOLUME_CONTAINER" NOME_DA_IMAGEM
+
+Exemplo:
+ 
+docker run -it -v "$(pwd):/var/www" -w "var/www" node npm start
+
 ```
 
 ### :small_orange_diamond: Verificar porta que o container está:
