@@ -120,3 +120,22 @@ docker port id_do_container
 ```
 docker run -d -P --name nome-container-que-eu-quiser nome_da_imagem
 ```
+
+### :small_orange_diamond: Criar minha própria rede
+
+```
+docker network create --driver bridge nome_da_rede
+```
+> `--diver bridge` driver principal
+
+### :small_orange_diamond: Criar minha própria rede
+
+```
+docker run -network nome_da_rede nome_do_container
+```
+
+### :small_orange_diamond: Ver todas as redes
+
+```
+docker network ls
+```
