@@ -15,3 +15,5 @@ CCTL: .br, .us, etc
 ### :small_orange_diamond: Fluxo de Requisição DNS: 
 
 <p align="center"> <img src="images/fluxo-dns.png" width="500px;"> </p>
+
+
