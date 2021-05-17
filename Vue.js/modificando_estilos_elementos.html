@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .estilo1{
+            background: seagreen;
+            color: white;
+        }
+
+        .estilo2{
+            background: salmon;
+            color: white;
+            text-align: center;
+            width: 100px;
+            height: 100px;
+        }
+
+    </style>
+</head>
+<body>
+    <h3>Manipulando Estilos</h3>
+
+    <button type="button" onclick="modificaEstilo('#FF0000')" >Vermelho</button>
+    <button type="button" onclick="modificaEstilo('#00FF00')">Verde</button>
+    <button type="button" onclick="modificaEstilo('#0000FF')">Azul</button>
+
+    <hr>
+
+    <div style="border: solid 1px gray; width: 100px; height: 100px; " id="quadrado"></div>
+    <br>
+    <div id="mensagem" class="estilo1">Modificando a Classe</div>
+    <hr>
+    <button type="button" onclick="modificaClasse()">Aplicar classe</button>
+
+
+    <script>
+        function modificaEstilo(corDeFundo){
+            document.getElementById('quadrado').style.background = corDeFundo
+        }
+
+        function modificaClasse(){
+            document.getElementById('mensagem').className = 'estilo2'
+        }
+    </script>
+</body>
+
+</html>

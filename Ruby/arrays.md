@@ -6,7 +6,7 @@ Doc para armazenar os principais metodos e recursos que podem ser usados nos arr
 
 ### :small_orange_diamond: Seleção
 
-```
+```ruby
 array.select{ |a| condição}
 ```
 
